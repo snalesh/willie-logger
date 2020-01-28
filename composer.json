@@ -1,0 +1,10 @@
+{
+    "name": "snalesh/willie-logger",
+    "description": "willie hears ya willie don't care",
+    "type": "library",
+    "require": {
+        "psr/log": "^1.1"
+    },
+    "license": "GNU3",
+    "minimum-stability": "stable"
+}
